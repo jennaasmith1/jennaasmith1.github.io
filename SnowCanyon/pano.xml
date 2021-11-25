@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" appversion="6.1.13" apprev="18080">
+  <input levelingpitch="0" height="3457" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" overlap="1" width="3457" levelbias="0.400" levelingroll="0">
+    <level height="3457" predecode="0" preload="0" width="3457"/>
+    <level height="1728" predecode="0" preload="0" width="1728"/>
+    <level height="864" predecode="0" preload="0" width="864"/>
+    <level height="432" predecode="1" preload="1" width="432"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start tilt="0" pan="0" fov="70" projection="4"/>
+    <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+    <min tilt="-90" pan="0" fovpixel="2"/>
+    <max tilt="90" pan="360" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360"/>
+  </view>
+  <userdata title="" source="" customnodeid="" author="" info="" copyright="" heading="0" latitude="" nodeid="node1" tags="First" longitude="" datetime="" description="" comment=""/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label textalpha="1" height="20" textcolor="0x000000" background="1" bordercolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" borderalpha="1" wordwrap="1" enabled="1" borderradius="1" width="180"/>
+    <polystyle handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+  </hotspots>
+  <media/>
+  <transition zoomspeed="2" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomoutpause="1" blendtime="1" zoomin="0" softedge="0" zoomout="0" zoomfov="20" blendcolor="0x000000" enabled="1"/>
+  <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control rubberband="0" sensitivity="8" lockedwheel="0" contextvr="1" lockedkeyboard="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+</panorama>
