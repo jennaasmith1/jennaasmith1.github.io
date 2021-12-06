@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="18080" appversion="6.1.13" id="node1">
+  <input levelingpitch="0" levelingroll="0" height="3466" levelbiashidpi="1.000" width="3466" levelbias="0.400" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+    <level height="3466" width="3466" preload="0" predecode="0"/>
+    <level height="1733" width="1733" preload="0" predecode="0"/>
+    <level height="866" width="866" preload="0" predecode="0"/>
+    <level height="433" width="433" preload="1" predecode="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start pan="-45.5167" tilt="-2.88149" projection="4" fov="70"/>
+    <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120" fovfisheye="360"/>
+  </view>
+  <userdata copyright="" heading="0" source="" comment="" title="" description="" tags="Stage" customnodeid="" datetime="" longitude="" latitude="" author="" nodeid="node1" info=""/>
+  <hotspots wordwrap="1" height="20" width="180">
+    <label wordwrap="1" height="20" backgroundalpha="1" width="180" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" borderalpha="1" border="1" borderradius="1" background="1"/>
+    <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+    <hotspot pan="-0.62" skinid="ht_image" title="Mannequins for Costumes" description="" url="images/4.png" tilt="-3.13" target="" id="Point01"/>
+  </hotspots>
+  <media/>
+  <transition zoomspeed="2" zoomin="0" softedge="0" zoomafterinfov="90" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" enabled="1" blendcolor="0x000000" zoomfov="20"/>
+  <autorotate startloaded="0" speed="0.050" delay="5.00" noderandom="1" useanimation="0" returntohorizon="0.000" nodefilter="" enabled="1" nodedelay="0.00"/>
+  <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+  <control lockedkeyboard="0" lockedwheel="0" contextvr="1" lockedmouse="0" speedwheel="1" contextfullscreen="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" rubberband="0" sensitivity="8" simulatemass="1"/>
+</panorama>
