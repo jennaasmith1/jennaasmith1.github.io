@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="18080" appversion="6.1.13" id="node1">
+  <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="3453" width="3453" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0">
+    <level predecode="0" height="3453" width="3453" preload="0"/>
+    <level predecode="0" height="1726" width="1726" preload="0"/>
+    <level predecode="0" height="863" width="863" preload="0"/>
+    <level predecode="1" height="431" width="431" preload="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start projection="4" fov="70" pan="118.426" tilt="4.61878"/>
+    <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+    <min fovpixel="2" pan="0" tilt="-90"/>
+    <max fovstereographic="270" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+  </view>
+  <userdata nodeid="node1" customnodeid="" copyright="" description="" info="" title="" author="" heading="0" datetime="" tags="Stage" latitude="" source="" comment="" longitude=""/>
+  <hotspots wordwrap="1" height="20" width="180">
+    <label textcolor="0x000000" textalpha="1" border="1" wordwrap="1" background="1" backgroundalpha="1" enabled="1" height="20" borderalpha="1" bordercolor="0x000000" width="180" borderradius="1" backgroundcolor="0xffffff"/>
+    <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1"/>
+    <hotspot description="" title="Trap Door Elevator" skinid="ht_image" id="Point01" target="" pan="-77.02" tilt="-48.48" url="images/2.png"/>
+    <hotspot description="" title="Trap Door Elevator" skinid="ht_image" id="Point02" target="" pan="-48.74" tilt="-18.01" url="images/2.png"/>
+  </hotspots>
+  <media/>
+  <transition blendtime="1" zoomafterinfov="90" zoomout="0" type="crossdissolve" enabled="1" blendcolor="0x000000" zoomin="0" zoomoutpause="1" zoomafteroutfov="20" softedge="0" zoomspeed="2" zoomfov="20"/>
+  <autorotate startloaded="0" useanimation="0" delay="5.00" nodefilter="" returntohorizon="0.000" speed="0.050" enabled="1" noderandom="1" nodedelay="0.00"/>
+  <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+  <control lockedkeyboardzoom="0" rubberband="0" invertwheel="0" simulatemass="1" lockedwheel="0" sensitivity="8" contextfullscreen="1" invertcontrol="1" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" speedwheel="1" contextvr="1"/>
+</panorama>
